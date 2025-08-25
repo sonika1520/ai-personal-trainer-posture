@@ -1,5 +1,3 @@
-# ai-personal-trainer-posture/README.md
-
 # AI Personal Trainer Posture
 
 ## Overview
